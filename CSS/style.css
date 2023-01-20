@@ -1,6 +1,6 @@
 body    {
     background-color: aquamarine;
-
+    margin-left: 20px;
 }
 .title {
     font-size: 60 px;
@@ -8,5 +8,10 @@ body    {
 }
 .kinal {
     text-align: center;
+
+}
+.img-size{
+    size: 30px;
+    height: 30px;
 
 }
